@@ -1,4 +1,4 @@
-# RxSense
+# NContracts
 
 Grocery checkout calculator — a behavior-preserving refactor of a tightly-coupled
 coding challenge into an extensible discount engine.
